@@ -1,0 +1,14 @@
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Debug\net9.0\pluh.exe
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Debug\net9.0\pluh.deps.json
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Debug\net9.0\pluh.runtimeconfig.json
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Debug\net9.0\pluh.dll
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Debug\net9.0\pluh.pdb
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.AssemblyInfoInputs.cache
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.AssemblyInfo.cs
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.csproj.CoreCompileInputs.cache
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.dll
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\refint\pluh.dll
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.pdb
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\pluh.genruntimeconfig.cache
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\obj\Debug\net9.0\ref\pluh.dll

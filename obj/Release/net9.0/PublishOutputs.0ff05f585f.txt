@@ -1,0 +1,5 @@
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Release\net9.0\publish\pluh.exe
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Release\net9.0\publish\pluh.dll
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Release\net9.0\publish\pluh.deps.json
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Release\net9.0\publish\pluh.runtimeconfig.json
+C:\Users\tokyh.DESKTOP-TRH01E5\OneDrive\Documentos\CodeServices\pluh\bin\Release\net9.0\publish\pluh.pdb
